@@ -40,7 +40,7 @@ python hangman.py
 ## 📂 Project Structure
 
 ```text
-python/
+codeaplha/
 ├── hangman.py
 └── README.md
 ```
