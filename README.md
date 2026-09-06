@@ -26,7 +26,7 @@ The player gets a maximum of 6 incorrect guesses. The game ends when the player 
 Open the terminal in VS Code and run:
 
 ```bash
-codeaplha hangman.py
+python hangman.py
 ```
 
 ## 🎯 How to Play
